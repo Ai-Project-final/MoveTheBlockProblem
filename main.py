@@ -9,6 +9,6 @@ def maiin():
     arr = [[0]*rows]*cols
     print(arr)
     print("Hasnain")
-    print("Zaki")
+    bhai kr dia update main ny
 
 maiin()
