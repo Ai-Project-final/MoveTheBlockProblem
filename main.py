@@ -8,6 +8,7 @@ def maiin():
     rows, cols = (7, 8)
     arr = [[0]*rows]*cols
     print(arr)
-
+    print("Hasnain")
+    print("Zaki")
 
 maiin()
